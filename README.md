@@ -6,4 +6,4 @@
 ## About Me
 I am Kelvin from Indonesia. A Machine Learning Engineer, with background as an Electrical Engineer.
 ## Social Medias
-![<Badge Name>](https://img.shields.io/badge/#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![LinkedIn>](https://img.shields.io/badge/#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue)
