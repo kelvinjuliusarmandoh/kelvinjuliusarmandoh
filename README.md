@@ -4,7 +4,7 @@
 
 # Hi there 👋
 ## About Me
-I am Kelvin from Indonesia. A Machine Learning Engineer, with background as an Electrical Engineer.
+I am Kelvin from Indonesia. With background as an Electrical Engineer.
 
 ## Educations
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
